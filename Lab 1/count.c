@@ -1,6 +1,5 @@
 // Name: Aakash Shetty
 // COEN 12 Lab 1: Counting Words
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
